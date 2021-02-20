@@ -31,6 +31,7 @@ p {
 	color: rgb(220,220,220);
 	font-size: 15px;	
 	margin-top: 25px;
+	padding-top: 0px;
 }
 
 .fas {
