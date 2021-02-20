@@ -10,8 +10,8 @@ img {
 	border-radius: 50%;
 	width: : 150px;
 	height: 150px;
-	margin-top: 100px;
-	margin-bottom: 0px;
+	margin-top: 50px;
+
 }
 
 h1 {
@@ -19,12 +19,26 @@ h1 {
 	padding-top: 0px;
 	text-shadow: 2px 2px 2px gray;
 	margin-bottom: 0px;
+	margin-top: 10px;
 }
 
 p {
 	font-size: 15px;
 	margin-top: 0px;
 }
+
+.buttonload {
+	color: rgb(220,220,220);
+	font-size: 15px;	
+	margin-top: 20px;
+}
+
+.fas {
+	color: rgb(220,220,220);
+	font-size: 20px;
+	text-shadow: none;
+}
+
 .main {
 	font-size: 20px;
 	margin-bottom: 30px;
@@ -40,6 +54,7 @@ p {
 	font-size: 20px;
 	padding: 10px 15px 10px 15px;
 	border-radius: 5px;
+	margin-bottom: 0;
 }
 
 .botao:hover {
@@ -47,9 +62,13 @@ p {
 }
 
 .arrow {
-	margin-top: 10px;
-	margin-bottom: 0;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	color: white;
+	font-size: 30px;
+	
 }
+
 .lista{
 	list-style: none;
 	padding-left: 0;
