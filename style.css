@@ -22,16 +22,20 @@ h1 {
 	margin-top: 10px;
 }
 
+h2 {
+	font-size: 18px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+
 p {
 	font-size: 15px;
 	margin-top: 0px;
 }
-
 .buttonload {
 	color: rgb(220,220,220);
 	font-size: 15px;	
-	margin-top: 25px;
-	padding-top: 0px;
+	margin-top: 20px;
 }
 
 .fas {
@@ -40,10 +44,7 @@ p {
 	text-shadow: none;
 }
 
-.main {
-	font-size: 20px;
-	margin-bottom: 30px;
-}
+
  .bottom {
  	margin-bottom: 20px;
  }
@@ -66,7 +67,7 @@ p {
 	margin-top: 5px;
 	margin-bottom: 0px;
 	color: white;
-	font-size: 20px;
+	font-size: 30px;
 	
 }
 
